@@ -1,6 +1,14 @@
 ## TODO
-- [ ] exclude specific (config?) files and folders
+- [ ] implement ABA configuration
+- [ ] set configuration via CLI
+- [ ] implement version history length
+- [ ] implement source array
+- [ ] support for scheduler task automation within configuration
+- [ ] implement changes detection
+- [ ] implement specification for compression grade per folder
+- [ ] exclude specific (config) files and folders
 - [ ] implement ignore patterns (gitignore)
-- [ ] support gitignore and custom ignore files
+- [ ] support gitignore (and custom ABA ignore) files
 - [ ] support for googledrive
+- [ ] support for ftp
 - [ ] 
