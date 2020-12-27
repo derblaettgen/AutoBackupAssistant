@@ -1,4 +1,5 @@
 ## TODO
+- [ ] implement Testing
 - [ ] implement ABA configuration
 - [ ] set configuration via CLI
 - [ ] implement version history length

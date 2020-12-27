@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoBackupAssistant", "AutoBackupAssistant\AutoBackupAssistant.csproj", "{BD9BD0AA-611D-4F64-A243-3D90BD405A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoBackupAssistant", "AutoBackupAssistant\AutoBackupAssistant.csproj", "{BD9BD0AA-611D-4F64-A243-3D90BD405A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoBackupAssistant.UnitTests", "AutoBackupAssistant.UnitTests\AutoBackupAssistant.UnitTests.csproj", "{81094295-18C8-4CBA-AC79-99811AD6A3F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BD9BD0AA-611D-4F64-A243-3D90BD405A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9BD0AA-611D-4F64-A243-3D90BD405A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9BD0AA-611D-4F64-A243-3D90BD405A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81094295-18C8-4CBA-AC79-99811AD6A3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81094295-18C8-4CBA-AC79-99811AD6A3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81094295-18C8-4CBA-AC79-99811AD6A3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81094295-18C8-4CBA-AC79-99811AD6A3F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
